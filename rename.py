@@ -121,6 +121,7 @@ def rename(dir_name):
                     "Love yourself!",
                     "お願いバッハ！",
                     "クリフハンガー",
+                    "Kind of love"
                 ],
                 "HKA": [
                     "走り出す瞬間",
@@ -141,6 +142,7 @@ def rename(dir_name):
                     "Make or Break",
                     "Unhappy birthday構文",
                     "The growing up train",
+                    "Lonesome rabbit / What's \"KAZOKU\"?"
                 ],
                 "SA": ["As you know?", "Addiction"],
                 "KS": [
